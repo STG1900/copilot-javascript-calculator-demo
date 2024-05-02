@@ -12,8 +12,10 @@ Create a simple calculator using JavaScript.
 - JavaScript
 
 ## 💻 IDE
-<!-- OPTIONALLY SPECIFY THE IDE THAT SHOULD BE USED. N/A IF ANY IDE WILL SUFFICE. -->
-N/A
+<!-- OPTIONALLY SPECIFY THE IDE THAT SHOULD BE USED -->
+- Visual Studio
+- Visual Studio Code
+- JetBrains IDEs
 
 ## 🗒️ Guide
 <!-- STEP BY STEP ISNTRUCTIONS DETAILING HOW TO COMPLETE THE EXERCISE -->
