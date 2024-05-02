@@ -20,14 +20,11 @@ N/A
 Welcome! In this Copilot exercise we will create a Calculator very quickly and iterate over this application with a few additional prompts.
 
 Open your IDE of choice and navigate to the Copilot Chat extension. Make sure that your GitHub Copilot is enabled and turned on.
-![Let's Setup!](./images/Where.png)
-
-Your Visual Studio Code should look like this. We are now ready to write some code through GitHub Copilot.
-![Ready!](./images/Chat.png)
+![Let's Setup!](./images/IDE.png)
 
 ### Step 2: Ask GitHub Copilot Chat for assistance
 
-In the GitHub Copilot Chat text box, provide the following prompt to ilicit the help from GitHub Copilot ```Can you give me the code for a standard calculator written in Javascript?```. As you can see below, Copilot Chat will provide the code for you to text in the chat. 
+In the GitHub Copilot Chat text box, provide the following prompt to solicit help from GitHub Copilot ```Can you give me code for a standard calculator written in Javascript?```. As you can see below, Copilot Chat will provide the code needed to get started.
 
 ![Copilot Creation!](./images/create.png)
 
@@ -38,16 +35,16 @@ By clicking on the code that was generated and hovering over the top right corne
 
 ![Copy](./images/copy.png)
 
-For this example, if we chose Option 1 we would need to create 3 files, calculator.html, calculator.js, and calculator.css. We would then paste the 3 respective generated pieces of code frmo GitHub Copilot Chat into each of the files. 
+For this example, if we chose Option 1 we would need to create 3 files, calculator.html, calculator.js, and calculator.css. We would then paste the 3 respective generated pieces of code from GitHub Copilot Chat into each of the files. 
 
 #### Option 2:
-If you select Option 2, click into the code that was generated and hover over the top right corner once more. This time press the middle button labaled ```Insert at cursor```. This pastes the generated code into whatever file was open in your project at your mouse's location.
+If you select Option 2, click into the code that was generated and hover over the top right corner once more. This time press the middle button labaled ```Insert at cursor```. This pastes the generated code into whatever file was open in your project at your cursor's location.
 
 ![Insert](./images/insert.png)
 
 ### Step 3: Let's run it and see what happens
 
-Open your local directory and locate the project that you are working out of. 
+Open your local directory and locate the project that you are working from. 
 
 ![Local](./images/local.png)
 
@@ -61,13 +58,13 @@ Enter in a few numbers and perform an operation. For this example we will do 2 m
 
 ### Step 4: Further Iterations
 
-Now that you have a working version of the Application. Feel free to iterate on it with any prompt that you would like. We have added a few below to provide some inspiration as to what is possible with Copilot.
+Now that you have a working version of the application, feel free to iterate on it with any prompt that you would like. We have added a few below to provide some inspiration as to what is possible with Copilot.
 
 > "Copilot, can we make it prettier?"
 
 > "Copilot, can we add additional operations?"
 
-And my personal favorite, which will be our next lesson:
+And my personal favorite:
 > "Copilot, can you show me how to add unit tests to this application?"
 
 ### Troubleshooting
