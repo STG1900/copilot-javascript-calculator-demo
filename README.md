@@ -17,9 +17,9 @@ N/A
 
 ## 🗒️ Guide
 <!-- STEP BY STEP ISNTRUCTIONS DETAILING HOW TO COMPLETE THE EXERCISE -->
-Welcome! In this starting Copilot demo for **Getting started - Javascript Calculator - Visual Studio Code**, we will create a Calculator very quickly and iterate over this application with a few additional prompts.
+Welcome! In this Copilot exercise we will create a Calculator very quickly and iterate over this application with a few additional prompts.
 
-Open Visual Studio Code and navigate to primary location of your GitHub Copilot chat, by default it is on the right but you may have moved it somewhere else. Make sure that your GitHub Copilot is enabled and turned on. 
+Open your IDE of choice and navigate to the Copilot Chat extension. Make sure that your GitHub Copilot is enabled and turned on.
 ![Let's Setup!](./images/Where.png)
 
 Your Visual Studio Code should look like this. We are now ready to write some code through GitHub Copilot.
