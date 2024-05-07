@@ -30,23 +30,23 @@ In the GitHub Copilot Chat text box, provide the following prompt to solicit hel
 
 ![Copilot Creation!](./images/create.png)
 
-You have 2 options of getting the code into your project. 
+You have 2 options of getting the code into your project.
 
-#### Option 1:
+#### Option 1
 By clicking on the code that was generated and hovering over the top right corner, you can press the copy button to add it to your clipboard for easy pasting. Simply create the type of file you need to work with in your project and paste the generated code there.  
 
 ![Copy](./images/copy.png)
 
-For this example, if we chose Option 1 we would need to create 3 files, calculator.html, calculator.js, and calculator.css. We would then paste the 3 respective generated pieces of code from GitHub Copilot Chat into each of the files. 
+For this example, if we chose Option 1 we would need to create 3 files, calculator.html, calculator.js, and calculator.css. We would then paste the 3 respective generated pieces of code from GitHub Copilot Chat into each of the files.
 
-#### Option 2:
+#### Option 2
 If you select Option 2, click into the code that was generated and hover over the top right corner once more. This time press the middle button labaled ```Insert at cursor```. This pastes the generated code into whatever file was open in your project at your cursor's location.
 
 ![Insert](./images/insert.png)
 
 ### Step 3: Let's run it and see what happens
 
-Open your local directory and locate the project that you are working from. 
+Open your local directory and locate the project that you are working from.
 
 ![Local](./images/local.png)
 
@@ -64,6 +64,7 @@ Now that you have a working version of the application, feel free to iterate on 
 
 > "Copilot, can we make it prettier?"
 
+Or:
 > "Copilot, can we add additional operations?"
 
 And my personal favorite:
