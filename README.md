@@ -1,4 +1,4 @@
-# JavaScript Calculator
+# JavaScript Calculator Demo
 <!-- REPLACE THE TITLE WITH THE NAME OF THE EXERCISE -->
 
 This repository includes a Copilot training exercise intended to give you practical experience using the tool.
