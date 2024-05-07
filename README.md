@@ -1,7 +1,7 @@
 # JavaScript Calculator Demo
 <!-- REPLACE THE TITLE WITH THE NAME OF THE EXERCISE -->
 
-This repository includes a Copilot training exercise intended to give you practical experience using the tool.
+This repository includes a Copilot training demo intended to show off a practical example using the tool.
 
 ## 🎯 Goal
 <!-- ONE SENTENCE ABOUT THE GOAL OF THE EXERCISE -->
